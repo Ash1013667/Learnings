@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\dhananjayyedlabadkar\\desktop\\angular\u002Basp.netwebapi\\employeeportal\\employeeportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\dhananjayyedlabadkar\\desktop\\angular\u002Basp.netwebapi\\employeeportal\\employeeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\dhananjayyedlabadkar\\desktop\\angular\u002Basp.netwebapi\\employeeportal\\employeeportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\dhananjayyedlabadkar\\desktop\\angular\u002Basp.netwebapi\\employeeportal\\employeeportal\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\dhananjayyedlabadkar\\desktop\\angular\u002Basp.netwebapi\\employeeportal\\employeeportal\\employeeportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\employeeportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\dhananjayyedlabadkar\\desktop\\angular\u002Basp.netwebapi\\employeeportal\\employeeportal\\modles\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\modles\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\dhananjayyedlabadkar\\desktop\\angular\u002Basp.netwebapi\\employeeportal\\employeeportal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\dhananjayyedlabadkar\\desktop\\angular\u002Basp.netwebapi\\employeeportal\\employeeportal\\migrations\\20241009065103_initial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E22C1-9DCE-4501-BCF5-E4B46FB56AD2}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\migrations\\20241009065103_initial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Program.cs",
+              "ToolTip": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\Program.cs",
+              "RelativeToolTip": "EmployeePortal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:20:34.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeePortal\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:39:13.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeePortal\\appsettings.json",
+              "ToolTip": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\appsettings.json",
+              "RelativeToolTip": "EmployeePortal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T06:16:48.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241009065103_Initial Setup.cs",
+              "DocumentMoniker": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\Migrations\\20241009065103_Initial Setup.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Migrations\\20241009065103_Initial Setup.cs",
+              "ToolTip": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\Migrations\\20241009065103_Initial Setup.cs",
+              "RelativeToolTip": "EmployeePortal\\Migrations\\20241009065103_Initial Setup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:51:03.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeePortal\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:26:59.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeePortal.csproj",
+              "DocumentMoniker": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\EmployeePortal.csproj",
+              "RelativeDocumentMoniker": "EmployeePortal\\EmployeePortal.csproj",
+              "ToolTip": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\EmployeePortal.csproj",
+              "RelativeToolTip": "EmployeePortal\\EmployeePortal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T06:25:24.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeePortal\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:11:54.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\Modles\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Modles\\Employee.cs",
+              "ToolTip": "C:\\Users\\dhananjayyedlabadkar\\Desktop\\Angular\u002BAsp.NetWebAPI\\EmployeePortal\\EmployeePortal\\Modles\\Employee.cs",
+              "RelativeToolTip": "EmployeePortal\\Modles\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:03:10.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
